@@ -8,4 +8,3 @@ average = find_average(numbers)
 print(f"The average of the numbers is: {average}")
 
 print("Round of the average to 2 decimal places: ", round(average, 2))
- y

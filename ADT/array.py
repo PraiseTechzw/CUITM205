@@ -23,3 +23,4 @@
 # # Check if array is empty
 # print("Is array empty?", len(array) == 0)
 
+def 
